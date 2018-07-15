@@ -26,15 +26,3 @@ How to Run:
     If necessary, I will come back to this to make it easier to compile and
     run the program (it's complicated right not because of the required
     Maven libraries).
-
-===============================================================================
-
-I learned how to:
-    1.) 
-
-===============================================================================
-
-Notes to self:
-    1.) Stop using == to compare Strings. Use String.equals().
-    2.) Float comparisons using operators like ==, !=, etc. are incorrect.
-        Use Float.compareTo().
