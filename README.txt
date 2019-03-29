@@ -22,7 +22,4 @@ Project Specifications:
 ===============================================================================
 
 How to Run:
-    See Project Specifications on how to open the project in IntelliJ.
-    If necessary, I will come back to this to make it easier to compile and
-    run the program (it's complicated right not because of the required
-    Maven libraries).
+    See Project Specifications on how to open/run the project in IntelliJ.
